@@ -1,0 +1,25 @@
+body {  background-color: lightyellow;
+        color:red(12, 112, 12);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 0.5px;
+        word-spacing: 1px;
+        font-size: 2em;
+
+        
+        
+}  
+
+img {
+    border-radius: 50%;
+    width: 600px;
+  }
+
+
+h1 {color: red;
+    text-decoration: underline;
+}
+
+header 
+{   text-align: center;
+    font-size: 40px;
+}
